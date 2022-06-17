@@ -1,0 +1,6 @@
+[submodule "exploding_brains"]
+	path = exploding_brains
+	url = ./exploding_brains
+[submodule "julia"]
+	path = julia
+	url = https://github.com/JuliaLang/julia.git
